@@ -1,0 +1,12 @@
+langchain
+langchain_community
+InstructorEmbedding
+langchain_huggingface
+sentence_transformers
+google-generativeai
+python-dotenv
+streamlit
+tiktoken
+faiss-cpu
+protobuf
+
