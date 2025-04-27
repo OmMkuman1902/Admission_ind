@@ -20,7 +20,14 @@ st.markdown(
         border-left: 5px solid #4CAF50;
         padding: 20px;
         margin-top: 20px;
-        border-radius: 5px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    .stTextInput>div>div>input {
+        background-color: #f1f8e9;
+        border: 2px solid #4CAF50;
+        border-radius: 8px;
+        padding: 10px;
     }
     </style>
     """,
